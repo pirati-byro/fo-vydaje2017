@@ -193,7 +193,7 @@ def parse_request(no):
                 'položka': polozka,
                 'středisko': stredisko,
                 'částka': castka,
-                'popis': nazev,
+                'popis': nazev.replace('"',''),
                 'podáno': podano,
                 'proplaceno': proplaceno,
                 'redmine': redmine_id
