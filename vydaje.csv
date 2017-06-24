@@ -278,7 +278,7 @@
 276,FO 277/2017,strana,212900300,-12000.00,2017-05-11,2017-05-12,https://redmine.pirati.cz/issues/6348,Odměna KoDo-SčK-04/2017
 277,FO 278/2017,strana,212700001,-35000.00,2017-05-11,,,Platební brána
 278,FO 279/2017,strana,212800001,-1000.00,2017-05-11,2017-05-12,https://redmine.pirati.cz/issues/6352,Hlídání dětí
-279,FO 280/2017,strana,adresa_rozpoctove_polozky_relativne_vuci_korenovemu_adresari,-0.00,2017-05-11,,https://redmine.pirati.cz/issues/6350,Hlídání dětí
+279,FO 280/2017,,,-0.00,2017-05-11,,https://redmine.pirati.cz/issues/6350,Hlídání dětí
 280,FO 281/2017,strana,212800001,-1000.00,2017-05-11,2017-05-12,https://redmine.pirati.cz/issues/6661,Hlídání dětí 7.5.2017
 281,FO 282/2017,strana,212800001,-2088.00,2017-05-11,2017-05-12,https://redmine.pirati.cz/issues/6354,Občerstvení 7.5.2017
 282,FO 283/2017,strana,212800001,-1000.00,2017-05-11,2017-05-12,https://redmine.pirati.cz/issues/6356,Doprava alegorickeho vozu na MMM
@@ -349,3 +349,7 @@
 347,FO 348/2017,praha,220100401,-72000.00,2017-05-31,2017-06-05,https://redmine.pirati.cz/issues/6568,interní převod z KSPraha do PO
 348,storno FO 349/2017,,,"0,00",2017-05-31,,https://redmine.pirati.cz/issues/6568,interní převod z KSPraha do PO (příjem)
 349,FO 350/2017,strana,212500110,"-478,19",2017-05-31,2017-06-07,https://redmine.pirati.cz/issues/6569,Křížovka pro Pirátské listy
+350,FO 351/2017,strana,212600001,-90.0,2017-05-31,2017-06-17,https://redmine.pirati.cz/issues/6576,Konverze dokumentů
+351,FO 352/2017,praha,220100402,-1738.10,2017-06-01,2017-06-07,https://redmine.pirati.cz/issues/6577,Nákup nádobí + cestovné
+352,FO 353/2017,strana,212800001,-966.00,2017-06-01,2017-06-09,https://redmine.pirati.cz/issues/6635,Psavec mediálního odboru odměna - 4/2017
+353,FO 354/2017,strana,213000001,-1815.00,2017-06-02,2017-06-06,https://redmine.pirati.cz/issues/6587,"Serverhosting LORI 04, 05 a 06/2017"
