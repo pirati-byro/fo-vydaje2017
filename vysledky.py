@@ -204,5 +204,5 @@ def parse_request(no):
 
 for no in range(1,420):
     parse_request(no)
-    vydaje.to_csv('vydaje.csv',sep=';')
+    vydaje.to_csv('vydaje.csv',sep=',')
 
