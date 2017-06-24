@@ -50,7 +50,6 @@ cwd = os.getcwd()
 
 vydaje = pd.DataFrame(columns=['značka', 'středisko', 'položka', 'částka','podáno', 'proplaceno', 'redmine', 'popis'])
 
-
 def make_url(no):
     return 'https://wiki.pirati.cz/fo/vydaje/fo_' + str(no) + '_2017'
 
@@ -66,7 +65,10 @@ def parse_request(no):
     logging.info('Procesuje se žádost o proplacení FO '+str(no)+'/2017')
 
     link = make_url(no)+'?do=export_html'
-    mydir = 'output/' + str(no) + '/'
+
+    no_string= "{0:0>3}".format(no)
+
+    mydir = 'output/' + no_string + '/'
     os.makedirs(mydir, exist_ok=True)
 
     # ulož txt
@@ -202,6 +204,5 @@ def parse_request(no):
 
 for no in range(1,420):
     parse_request(no)
-
-vydaje.to_csv('vydaje.csv',sep=';')
+    vydaje.to_csv('vydaje.csv',sep=';')
 

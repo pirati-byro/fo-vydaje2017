@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ca7c115-4ad3-4cd3-a43b-3fdeeba7481f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rename.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/redmine_task (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/1/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/10/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/10/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/10/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/10/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/10/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/11/doklad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/11/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/11/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/11/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/11/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/12/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/12/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/12/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/12/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/12/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/13/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/13/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/13/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/13/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/13/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/14/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/15/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/16/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/16/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/16/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/16/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/16/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/17/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/17/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/17/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/17/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/18/doklad1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/18/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/18/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/18/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/18/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/19/doklad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/19/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/19/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/19/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/19/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/redmine_task (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/20/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/20/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/20/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/20/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/20/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/doklad3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/21/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/22/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/22/doklad2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/22/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/22/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/22/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/doklad4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/doklad5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/23/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/24/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/24/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/24/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/25/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/25/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/25/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/25/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/25/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/26/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/doklad3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/27/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/doklad4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/28/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/29/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/29/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/29/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/29/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/redmine_task (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/3/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/30/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/30/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/30/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/30/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/31/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/31/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/31/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/31/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/31/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/32/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/33/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/33/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/33/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/33/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/33/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/34/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/34/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/34/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/34/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/34/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/35/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/35/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/35/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/35/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/35/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/36/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/doklad3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/37/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/38/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/38/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/38/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/38/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/38/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/39/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/39/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/39/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/39/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/redmine_task (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/4/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/40/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/40/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/40/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/40/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/41/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/41/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/41/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/41/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/42/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/42/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/42/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/42/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/43/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/43/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/43/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/43/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/44/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/44/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/44/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/44/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/45/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/46/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/46/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/46/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/46/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/46/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/47/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/47/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/47/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/47/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/47/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/doklad3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/48/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/49/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/5/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/50/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/50/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/50/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/50/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/51/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/51/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/51/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/51/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/51/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/52/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/52/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/52/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/52/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/53/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/53/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/53/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/53/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/54/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/54/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/54/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/54/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/54/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/55/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/55/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/55/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/55/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/55/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/56/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/57/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/57/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/57/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/57/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/57/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/58/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/58/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/58/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/58/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/58/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/59/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/59/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/59/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/59/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/59/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/6/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/6/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/6/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/60/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/60/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/60/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/60/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/60/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/61/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/61/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/61/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/61/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/61/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/62/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/62/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/62/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/62/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/62/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/63/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/64/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/64/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/64/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/64/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/64/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/65/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/66/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/66/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/66/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/66/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/66/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/doklad3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/67/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/68/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/69/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/69/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/69/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/69/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/69/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/7/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/7/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/7/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/7/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/70/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/70/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/70/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/70/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/70/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/71/doklad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/71/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/71/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/71/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/71/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/72/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/72/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/72/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/72/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/72/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/doklad2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/doklad3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/73/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/74/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/74/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/74/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/74/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/74/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/75/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/76/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/76/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/76/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/76/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/77/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/77/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/77/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/77/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/78/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/78/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/78/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/78/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/78/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/79/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/79/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/79/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/79/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/79/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/doklad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/8/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/80/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/80/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/80/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/80/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/81/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/81/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/81/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/81/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/82/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/82/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/82/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/82/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/82/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/83/doklad1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/83/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/83/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/83/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/84/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/84/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/84/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/84/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/85/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/85/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/85/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/85/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/86/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/86/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/86/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/86/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/86/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/87/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/87/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/87/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/87/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/87/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/88/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/89/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/89/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/89/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/89/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/9/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/9/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/9/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/9/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/9/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/90/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/90/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/90/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/90/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/90/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/doklad4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/91/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/doklad3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/92/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/doklad3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/93/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/94/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/94/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/94/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/94/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/94/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/95/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/95/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/95/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/95/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/95/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/96/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/96/doklad2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/96/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/96/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/96/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/97/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/97/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/97/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/97/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/97/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/doklad1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/doklad2.PDF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/98/zadost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/99/doklad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/99/redmine_task.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/99/redmine_tasks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/99/zadost.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/99/zadost.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vysledky.py" afterPath="$PROJECT_DIR$/vysledky.py" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="vysledky.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vysledky.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="206" column="4" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="4" />
+              <folding>
+                <element signature="e#1198#1263#0" expanded="false" />
+                <element signature="e#1287#1391#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rename.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <element signature="e#85#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INSTALL.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/INSTALL.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wget</find>
+      <find>reques</find>
+      <find>budget_regis</find>
+      <find>doklad</find>
+      <find>pdfkit</find>
+      <find>ppri</find>
+      <find>weasyprin</find>
+      <find>HTML</find>
+      <find>csv</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vysledky_old.py" />
+        <option value="$PROJECT_DIR$/INSTALL.md" />
+        <option value="$PROJECT_DIR$/rename.py" />
+        <option value="$PROJECT_DIR$/vysledky.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vysledky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vysledky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vysledky">
+    <configuration default="false" name="vysledky" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vysledky.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vysledky" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.vysledky" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.vysledky" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ca7c115-4ad3-4cd3-a43b-3fdeeba7481f" name="Default" comment="" />
+      <created>1498252894397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498252894397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1615" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23182297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vysledky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1198#1263#0" expanded="false" />
+            <element signature="e#1287#1391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INSTALL.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/10/zadost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vysledky_old.py" />
+    <entry file="file://$PROJECT_DIR$/INSTALL.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#85#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vysledky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="206" column="4" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="4" />
+          <folding>
+            <element signature="e#1198#1263#0" expanded="false" />
+            <element signature="e#1287#1391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
