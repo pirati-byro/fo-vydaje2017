@@ -202,7 +202,7 @@ def parse_request(no):
     vydaje = vydaje.append(newline, ignore_index=True)
     print_time()
 
-for no in range(1,420):
+for no in range(1,448):
     parse_request(no)
     vydaje.to_csv('vydaje.csv',sep=',')
 
